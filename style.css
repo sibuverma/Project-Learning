@@ -1,0 +1,8 @@
+h1 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    border-radius: 50px;
+    border-color: rgba(91, 110, 155, 0.234);
+}
